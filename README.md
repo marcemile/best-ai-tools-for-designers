@@ -69,6 +69,7 @@
 - **[Krea](https://www.krea.ai)** — Real-time image and video generation canvas that bundles multiple third-party AI models in one interface. `Freemium`
 - **[Leonardo.Ai](https://leonardo.ai)** — Image generation platform with fine-tuned style models and canvas editing for game and product art. `Freemium`
 - **[Midjourney](https://www.midjourney.com)** — Generates stylized images from text prompts via Discord or a web app, widely used for concept art. `Paid`
+- **[Minglyph](https://minglyph.com/)** — Creates PNG word-art concepts from text, meaning and visual style for designers exploring poster and cover lettering. `Freemium`
 - **[NightCafe](https://nightcafe.studio)** — AI art generator combining several image models with daily free credits and a creator community. `Freemium`
 - **[Playground](https://playground.com)** — AI image editor and generator with canvas-based compositing and custom model training. `Freemium`
 
